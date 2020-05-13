@@ -1,0 +1,4 @@
+LOAD DATA LOCAL INFILE "D:\\lab6_data\\student.dat"
+INTO TABLE student
+FIELDS ENCLOSED BY '"' TERMINATED BY ','
+LINES TERMINATED BY '\r\n';

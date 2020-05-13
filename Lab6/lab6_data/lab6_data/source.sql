@@ -1,0 +1,9 @@
+source /root/lab6_data/load-faculty.sql
+source /root/lab6_data/load-department.sql
+source /root/lab6_data/load-worktable_faculty.sql
+source /root/lab6_data/load-degreeProgram.sql
+source /root/lab6_data/load-student.sql
+source /root/lab6_data/load-dDoffers.sql
+source /root/lab6_data/load-courseDescription.sql
+source /root/lab6_data/load-courseOffering.sql
+source /root/lab6_data/load-taken.sql
